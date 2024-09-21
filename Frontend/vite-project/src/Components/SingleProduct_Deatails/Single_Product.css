@@ -1,0 +1,16 @@
+.content
+{
+   
+    display: flex;
+    justify-Content: space-between;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.desc{
+    width: 70%;
+}
+#img
+{
+    height: 300px;
+}

@@ -1,0 +1,22 @@
+.All{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+.Container{
+    width: 70%;
+}
+
+.bill{
+    border:2px solid black;
+    height: max-content;
+}
+@media screen and (max-width:1290px) {
+    .Container{
+        width: 100%;
+    }
+    .bill{
+        width: 100%;
+    }
+}

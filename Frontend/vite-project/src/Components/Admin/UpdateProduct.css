@@ -1,0 +1,15 @@
+.updates
+{
+    display: flex;
+    flex-Wrap: wrap;
+    justify-Content: space-around;
+    align-Items: center;
+    margin-Top: 20px;
+    border: 2px solid black,
+}
+
+.image{
+    width: 100%;
+    display: flex;
+    justify-Content: center;
+}

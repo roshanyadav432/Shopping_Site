@@ -1,0 +1,22 @@
+.prods
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border:2px solid rgb(51, 49, 49);
+    width:100%;
+    padding: 4px;
+    flex-wrap: wrap;
+    gap:4px 10px;
+    background-color: beige;
+}
+
+.container
+{
+    
+    width: 100%;
+}
+#imgs
+{
+    height:230px;
+}

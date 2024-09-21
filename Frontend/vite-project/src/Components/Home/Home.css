@@ -1,0 +1,36 @@
+.imageCrousel{
+    
+display: flex;
+justify-Content: space-between;
+height: 70vh;
+background-Size: cover;
+background-Repeat: no-repeat;
+}
+
+.categories{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 10px 20px;
+   
+}
+
+#catImg
+{
+    height: 250px;
+}
+.category{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    /* border: 2px solid rgb(234, 218, 218); */
+    padding: 4px;
+   
+}
+
+#electronics{
+    width: 22rem;
+    cursor: pointer;
+}
